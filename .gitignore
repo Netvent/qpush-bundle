@@ -1,0 +1,6 @@
+/composer.lock
+/vendor
+/docs/_build
+/coverage
+.idea
+/nbproject
